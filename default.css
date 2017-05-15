@@ -1,5 +1,6 @@
 body {
-  background: #111111;
+  background-image: url(resource/background.png);
+  background-repeat: repeat;
 }
 
 h1 {
