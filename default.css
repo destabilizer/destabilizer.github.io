@@ -12,5 +12,17 @@ h3 {
 }
 
 a {
-  color: inherit;
+  color: #ffffff;
+}
+
+a:visited {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #eeeeff;
+}
+
+a:active {
+  color: #eeeeff;
 }
